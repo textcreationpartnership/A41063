@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This was given to Major Generall Harrison and the rest</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41063</idno><idno type="EEBO-CITATION">12028021</idno>
+  <idno type="VID">52691</idno>
+  <idno type="EEBO-PROQUEST">2248524219</idno>
+  
+            <idno type="STC">Wing F638</idno>
+            <idno type="STC">ESTC R31505</idno>
+            <idno type="OCLC">12028021</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A41063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52691)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1010:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This was given to Major Generall Harrison and the rest</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: Margret Fell.</note>
+                  <note>Imperfect: pages stained with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52691:1"/>
+            <head>THIS WAS GIVEN TO MAJOR Generall Harrison AND THE REST.</head>
+            <head type="sub">Read this in the Fear of the Lord, and in the moderation of Your spi<g ref="char:EOLhyphen"/>rits, without prejudice.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>THIS is the day of your visitation, while ye have time prize it; God hath long holden forth a hand of love unto you, though you have for several years past slighted and reje<g ref="char:EOLhyphen"/>cted his council, and would have none of his wayes, <hi>Who is the eternal Light, the way, the truth, and the Life,</hi> and there is no other way nor name under Heaven by which any shall be saved, or come to the knowledge of the eternal Truth as it is in Jesus, but by the <hi>Light <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Christ Jesus</hi> in whom is <hi>Life,</hi> and this <hi>Life is the Light of men,</hi> and though you have slighted this, and looked upon it as too mean and low, yet this ye must stoop unto, and come to, if ever you find peace and reconciliation with the Lord God, ye must have it <hi>in the Light</hi> which bears
+<pb n="2" facs="tcp:52691:2"/>testimony against all the works and deeds of darknesse; and if ever ye come to know or witnesse <hi>Life and immor<g ref="char:EOLhyphen"/>tality to be brought to Light</hi> thorow the Gospel of Jesus, which is glad tydings to the poor, and liberty to the cap<g ref="char:EOLhyphen"/>tive, then must you come to the <hi>Light</hi> of <hi>Jesus</hi> that shines in your Consciences, for his Immortality <hi>dwells in the Light,</hi> and the knowledg of him, and the witnesse that every one can bear of him in the real truth, is in the <hi>Light</hi> that shines in their Consciences, and in this knowledge is <hi>Life eternal to know the only true God, and Jesus Christ whom he hath sent a</hi> Light into the world, who hath said, <hi>He that knows me, knows him that sent me; I am come a Light, that he that believes on me should not perish, but have everlasting life;</hi> and this is the record that he hath given us of his Son, even <hi>eternal life,</hi> and this life is in his Son, which is now risen in his brightnesse, and shining in the Consciences of men, and he is purging the Conscience from dead works to serve the living God, which all the types and the sigures could not make <hi>any thing perfect as pertaining to the conscience,</hi> No not the Tabernacle, nor the Golden Pot in which was the <hi>Manna,</hi> they were but a shaddow of <hi>the good things to come,</hi> the <hi>body</hi> and substance is <hi>Christ,</hi> which makes clean the inside who is King of the Jews, not outward but inward, and the Minister of that Circumcision which is of the heart, which worships him in <hi>the Spirit and in the Truth,</hi> having not confidence in the flesh; and this is that you must all stoop to, if ever ye know or be partakers of the precious faith, which was once delivered to the Saints, which we are con<g ref="char:EOLhyphen"/>tending for, and are to contend for, even to the giving up our lives, and our desire is that ye might partake with us, and tast of that love which is in Christ Jesus, which neither heigth nor depth, tribulation, nor anguish, Principalityes nor powers, life nor death can sepatate from, and that you might partake of our life which <hi>is hid with Christ in God,</hi> is the de<g ref="char:EOLhyphen"/>sire of our soules, though you have long slighted the day of your visitation, and often rejected the council of the Lord, and counted the Light a mean and a contemptible thing,
+<pb n="3" facs="tcp:52691:2"/>by which the Lord God doth and ever will teach his peo<g ref="char:EOLhyphen"/>ple; and this testimony I bear unto you in the presence of the Lord God, though you may esteem high of your selves, and of your knowledge, <hi>the living and the eternal God ye doe not know as he is, but as ye know him in the light, for his im<g ref="char:EOLhyphen"/>mortality dwells in the light,</hi> and if ye know him where he dwells, ye must know him in the <hi>Light,</hi> and if ye be the Children of the Lord, and taught of the Lord, ye must be taught by the <hi>Light</hi> of him in your Consciences, and if ye be established in righteousnesse you must be established in the <hi>Light,</hi> and if ye be far from oppression, ye must be found in the <hi>Light,</hi> and if you will be where your peace will be great ye must dwell in the <hi>Light,</hi> and if while ye have the <hi>Light</hi> ye beleeve in the <hi>Light,</hi> ye may may be the children of the <hi>Light,</hi> and this is Christs own words and exhortations whom ye highly profess, &amp; yet slight his own words &amp; exhorration; Oh! Friends, what wil profession of him in words outwardly do for you now in the time of your distresse and sad affliction, when that saith is wanting which stands in the power, and works by love, and is held in the mistery of a pure Consci<g ref="char:EOLhyphen"/>ence, which I know eternally never a one of you can witnesse who denyes the <hi>Light</hi> of Jesus that cleanseth the Conscience, which every one must walk in; which brings into the fellow<g ref="char:EOLhyphen"/>ship one with another, where <hi>the blood of Jesus Christ clean<g ref="char:EOLhyphen"/>ses from all sin;</hi> and what will your justification, in that one act which you speak of, which was offered up at <hi>Jerusalem,</hi> now do for you when you want your seal and your testimo<g ref="char:EOLhyphen"/>ny of your being justified by it in your Consciences? if ye have not your particular assurance, by being purged purify<g ref="char:EOLhyphen"/>ed, and sanctified, and so justified in your own conscience? what will that Act doe for a defiled Conscience? what will that act do for an unclean and an unsanctified heart being that he which was offered up at <hi>Jerusalem</hi> once for all, thorow <hi>the eternall Spirit,</hi> is now risen in his Spirit and <hi>Light,</hi> in the hearts and Consciences of men, there to cleanse and to purge, and to wash by his own blood, and so to justi<g ref="char:EOLhyphen"/>fie and give assurance, that whosoever believes on him should
+<pb n="4" facs="tcp:52691:3"/>be saved and have <hi>everlasting life,</hi> now what will your pro<g ref="char:EOLhyphen"/>fessing and talking of this act doe for you, while you are slighting and disobeying, and transgressing against the Light (which should give you testimony and true assurance) to your justification, and should purisie your hearts by faith, for it is <hi>by the faith of the Son of God,</hi> which is <hi>Light</hi> and <hi>Life</hi> that <hi>the just lives,</hi> its not profession, or high notions by which the Just lives, its not brain wisdom nor comprehesion in the understanding that raises the dead, it was that that crucified the Just; but it is the voyce of the Son of God that raises the dead, and there's nothing that will avail in this day of the Lord but this new-creature, the image of the invisible God, the first begotten from the dead, and he that doth not witnesse this state will suffer losse, for when his work is tryed by the sire it will be burned; and though men may speak with the tongues of men and Angels, and want that love that passeth knowledge, it is but as the <hi>sounding brasse, and tinck<g ref="char:EOLhyphen"/>ling cymball,</hi> and so it will passe away and be no more seen; Nay further then that, though there may be prophesies and faith that could remove Mountains, and want this love that gives obedience, and keeps the Commandements of the Lord it is nothing; though they may give their goods to the poor; and their bodies to be burned, it is nothing while they doe not keep the Commandements of the Lord but slights his tenders of love, and his gracious mercies, and is exalted in a notion, in a conceiving or apprehension of a thing, and wants the sound and sure testimony of the thing it self; in this they are utterly betrayd; though they may say or apprehend that their name is written in Heaven, yet if this Heaven be farre off them they may misse of their Name, <hi>For Satan falls from Heaven like lightning;</hi> He that can receive it let him; There's none that enters into the <hi>Holy City,</hi> but whose name is written in the <hi>Lambs book of Life, slain from the foundation of the world,</hi> and this Name is written in Hea<g ref="char:EOLhyphen"/>ven, and here is Joy witnessed and the Song of <hi>Moses</hi> and the <hi>Lamb,</hi> but this state is redeemed from the earth, and so the offering up of the naturall life in this state is little.</p>
+            <pb n="5" facs="tcp:52691:3"/>
+            <p> Now the desire of my heart is that you had saith in God, and might see your selves in the condemnation, and feele the hand of his Justice and Judgement, and that you are not come to this condition without the power and providence, and permission of the Lord, that so you may be received in<g ref="char:EOLhyphen"/>to his bosome and mercy; for undoubtedly the same God as brought you to the seat of Justice, so metly has also brought you now to the Judgment, therefore now fall down under the hand of his Justice; whose hand of mercy is holden forth unto you; and consider what great mercy you have abused, and opportunities of doing him service; and how you have betrayed him and his cause into the hands of sinners; and how you have incurred his Just hand of recompence upon your heads; oh consider what yee have done against the Lord, what a great power you have abused, <hi>and tur<g ref="char:EOLhyphen"/>ned the sword against the Innocent,</hi> that should have been for the evill doer, and slighted and contemned his living truth, and held up a rotten deceitfull pro<g ref="char:EOLhyphen"/>fession which now will faile you in the day of your trou<g ref="char:EOLhyphen"/>bles and tryalls; one houre of worshipping the Lord God in his Eternall light and Spirit of Eternall life, were of more value to you then all your dayes and nights, that you have spent in prayers, and teares, and cryes, whilest your hearts are corrupted, and your Consciences desiled, and your minds carnall, where the Enmity stands against God and his Truth, which is not subject to the Law of God, neither indeed can be, but weepes <hi>Esaus</hi> teares, and so must have <hi>Esaus</hi> portion; you'l thinke this is hard, but truely you will sinde it truth, and you will sinde that all your good<g ref="char:EOLhyphen"/>nesse will passe away as the Early due, and your righte<g ref="char:EOLhyphen"/>ousnesse as the silthy raggs. But I feele something object<g ref="char:EOLhyphen"/>ing in your minds, as if this might be a discouragement to you in your Condition; I answer, no; It's the hand of his love is reached out unto you, and his bosome of love stands open unto you, to receive you into his mercy, if you would turne in your minds to the living witnesse of the living God in your Consciences, to which you must stand
+<pb n="6" facs="tcp:52691:4"/>or fall; This is the word which must Judge every one of you <hi>in the last day,</hi> and this is the word that reconciles unto God, and this is his name (who had his vesture dipt in blood) to which every knee must bow, and every tongue confesse; and if yee stand committed to this immortall and Eternall <hi>ingrafted word, this is able to save your soules;</hi> therefore to this word of faith which is nigh in the heart, which saith, <hi>Neither ascend nor descend,</hi> but preaches righ<g ref="char:EOLhyphen"/>teousnesse <hi>very nigh;</hi> to this come though it were <hi>the last day that yee had to live;</hi> the call of this is not in vaine, you will sind more comfort in turning in your minds unto this, and joyning your hearts and minds to this <hi>living Immortall word in your hearts;</hi> I say, you will finde more comfort be<g ref="char:EOLhyphen"/>ing with this if it were but <hi>one houre,</hi> then yee have done with roving and rambling after things without you, and <hi>as<g ref="char:EOLhyphen"/>cending</hi> and <hi>descending</hi> in your Immaginations, apprehensions, and comprehensions all the dayes of your life; and whether yee can believe or no, this you shall finde to be Eternall truth, <hi>and it's Gods love unto you, and Gods motion</hi> that is the cause of writing this, whether you can can receive it or no, whose mercy and long suffering continues unto you; and truely you cannot plead ignorance, nor deny but you have had many gracious invitations and tenders of his love. Oh that you would consider in this your day the things that belongs to your everlasting peace, and that you would turne unto him that hath smitten you, who has brought salvation neere, and is bringing forth righteousnesse as a light, and thither must you come if ever you finde peace with the Lord, yee must come to his swift witnesse that testifies a<g ref="char:EOLhyphen"/>gainst all your wayes, and all your worships, and your best actions, that have not been acted from the <hi>light,</hi> is for con<g ref="char:EOLhyphen"/>demnation with the <hi>light;</hi> for he is neere that condemnes, and he is neere that justifies, and then who can condemne, for God is greater who is one with him that justifies every one; <hi>and if the heart condemne, God is also greater,</hi> and so to this Master must you either stand or fall; if this righteous Judge condemne yee are condemned, and if this justifie,
+<pb n="7" facs="tcp:52691:4"/>then are you justified before the Lord; and if this righte<g ref="char:EOLhyphen"/>ous, just and faithfull witnesse in you plead your Cause, and you come to be tryed and proved, searched and exami<g ref="char:EOLhyphen"/>ned by this witnesse, and you freely submit to the Judge<g ref="char:EOLhyphen"/>ment of this, and what this condemns condemne, and what this Justifies Justifie no mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and owne no more to be truth but what this righteous witnesse of God in you presents to be truth; here you will come to a cleare conviction, and this will also worke your conversion, and change your minds, and redeeme you up to God, and there you will see when you are with God, and with his true and faithfull witnesse in you, and that there all things is possible, and so your minds will be changed, out of the visible perishing beggerly rudi<g ref="char:EOLhyphen"/>ments of outward worships, which perishes in the using of them, while they are performed by an unsanctified and an uncircumcised heart; and you will come into the invisible life. And so here I have set before you <hi>life and death, light and darknesse, good and evill,</hi> the righteous God is separa<g ref="char:EOLhyphen"/>ting betwixt the precious and the vile, betwixt him that ser<g ref="char:EOLhyphen"/>veth God and him that serveth him not, by his quicke and living powerfull word, <hi>which is sharper then any two edged sword, to the discerning of the secret intents of the heart;</hi> and unto this word which will give life unto your soules, which he that believes on, <hi>though he were dead, yet shall he live,</hi> unto him that is the <hi>resurrection,</hi> and the life, I commit you and commend you; and consider that this spirit will not alwayes strive with man.</p>
+            <closer>
+               <signed>I am a true lover of all your soules, and desires your Eternall peace and comfort of the Lord, who feeles the weight of your sufferings and tra<g ref="char:EOLhyphen"/>vells, with the seed of the Covenant, who am knowne by outward name; <hi>Margret Fell.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London;</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> neare <hi>Aldersgate.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
